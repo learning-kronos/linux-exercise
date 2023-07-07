@@ -166,7 +166,7 @@ Okayama
 fukuoka
 ```
 
-> コピペはNGです。
+> コピペせずに編集してみましょう。
 
 <br>
 
@@ -257,7 +257,11 @@ yamanashi
 yamaguchi
 ```
 
-<br><br>
+<br>
+
+[解答例](./ans/ex-01.md)
+
+<br>
 
 <hr>
 
@@ -433,5 +437,9 @@ ec2-user:x:1000:1000:EC2 Default User:/home/ec2-user:/bin/bash
 [root@ip-172-31-4-68 ~]# ls /home
 ec2-user  practice1.txt
 ```
+
+<br>
+
+[解答例](./ans/ex-02.md)
 
 <br><br>
